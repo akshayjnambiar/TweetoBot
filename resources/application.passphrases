@@ -1,0 +1,4 @@
+CONSUMER_KEY=<enter your consumer key from https://dev.twitter.com>
+CONSUMER_SECRET=<enter your consumer secret from https://dev.twitter.com>
+ACCESS_TOKEN=<enter your consumer access token from https://dev.twitter.com>
+ACCESS_TOKEN_SECRET=<enter your access token secret from https://dev.twitter.com>
